@@ -17,12 +17,11 @@ Learn all of the fundamentals of Ruby, and have fun while doing it – with Solo
 ```
 Ruby Tutorial
 [x] Basic Concepts
-[x] Control Structures
-[x] Collections
-[x] Methods
-[x] Object Oriented Programming
-[x] Modules, Mixins, Standard Classe
-[x] Working with Files
-[x] Certificate
+[ ] Control Structures
+[ ] Collections
+[ ] Methods
+[ ] Object Oriented Programming
+[ ] Modules, Mixins, Standard Classe
+[ ] Working with Files
+[ ] Certificate
 ```
-
