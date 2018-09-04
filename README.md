@@ -17,7 +17,7 @@ Learn all of the fundamentals of Ruby, and have fun while doing it – with Solo
 ```
 Ruby Tutorial
 [x] Basic Concepts
-[ ] Control Structures
+[x] Control Structures
 [ ] Collections
 [ ] Methods
 [ ] Object Oriented Programming
