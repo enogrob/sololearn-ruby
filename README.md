@@ -19,7 +19,7 @@ Ruby Tutorial
 [x] Basic Concepts
 [x] Control Structures
 [x] Collections
-[ ] Methods
+[x] Methods
 [ ] Object Oriented Programming
 [ ] Modules, Mixins, Standard Classe
 [ ] Working with Files
