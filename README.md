@@ -22,6 +22,6 @@ Ruby Tutorial
 [x] Methods
 [x] Object Oriented Programming
 [x] Modules, Mixins, Standard Classes
-[ ] Working with Files
-[ ] Certificate
+[x] Working with Files
+[x] Certificate
 ```
